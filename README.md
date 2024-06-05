@@ -3,7 +3,21 @@ This is used to explore activation mappings for NT4
 
 It loops through a basic menu, you can enter special tokens to signal a command, or just type things in to have the network learn them.
 
+If you're on Windows you should be able to run "builderman.bat".
 
+To use the visualizer you need python and pip.
+https://www.python.org/
+
+After you have that run this on your command line:
+```
+pip install numpy matplotlib
+```
+
+Then after running it you can find the "Data_Visualizer.4.py" in the folder "./bin/Testing/Node_Network_Output/"
+
+There is an example you can play with in 'Example.md'. This should create the attached image when viewing the charge_Output.ssv file using the Data_Visualizer.4.py.
+
+User Manual:
 
 Command: "??":
 
