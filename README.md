@@ -6,24 +6,31 @@ It loops through a basic menu, you can enter special tokens to signal a command,
 If you're on Windows you should be able to run "builderman.bat" in the project root directory.
 
 ![alt-text](img/NE.tut.0.png "root")
+
 Run "builderman.bat" for windows and "builderman.sh" for Linux/MacOS
 
 ![alt-text](img/NE.tut.1.png "compiling")
+
 You should see it compile and say it copied 1 file.
 
 ![alt-text](img/NE.tut.2.png "bin")
+
 The exe is in the bin folder.
 
 ![alt-text](img/NE.tut.3.png "exe")
+
 The program is called "NT4.Network_Explorer.exe"
 
 ![alt-text](img/NE.tut.4.png "exe")
+
 There is an example you can play with in 'Example.md'. This should create the attached image when viewing the charge_Output.ssv file using the Data_Visualizer.4.py.
 
 ![alt-text](img/NE.tut.5.png "copy")
+
 Run the NT4.Network_Explorer.exe and copy/paste the code-block from 'Example.md' into the NT4.Network_Explorer.exe.
 
 ![alt-text](img/NE.tut.6.png "runrun")
+
 The output should look like this image.
 
 To use the visualizer you need python and pip.
