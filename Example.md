@@ -5,16 +5,17 @@ Stuart Nelson
 Briar Fisk
 Frank LTan
 Colin Lennox
-Pete Abrahms
+Pete Abrams
 ArcologyX
 
 
->>mc 2.0
->>apt 1.5
+>>mc 1.0
+>>apt 0.0
 ?? Stuart
 ?? Briar
 ?? Frank
 ?? Colin
 ?? Pete
 !! 5
-```
+
+``` 
