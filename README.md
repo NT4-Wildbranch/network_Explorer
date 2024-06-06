@@ -33,6 +33,15 @@ Run the NT4.Network_Explorer.exe and copy/paste the code-block from 'Example.md'
 
 The output should look like this image.
 
+![alt-text](img/NE.tut.7.png "output")
+
+The output is located in "./bin/Testing/Node_Network_Output/". The Data_Visualizer.4.py is used to generate the heatmap. note_Charge_Output.ssv is the data file it reads.
+
+![alt-text](img/NE.tut.8.png "output heatmap")
+
+Data_Visualizer.4.py should generate a heatmap matching this image.
+
+
 To use the visualizer you need python and pip.
 https://www.python.org/
 
